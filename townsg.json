@@ -1,0 +1,599 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84734551891975,
+                    1.3707080005096115
+                ]
+            },
+            "properties": {
+                "name": "ANG MO KIO",
+                "min_rent": 500,
+                "max_rent": 6500,
+                "avg_rent": 2497.18,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 1713.91,
+                "avg_rent_3room": 2310.53,
+                "avg_rent_4room": 2310.53,
+                "avg_rent_5room": 3091.56,
+                "avg_rent_executive": 3165.79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.92685035159687,
+                    1.3293184810455627
+                ]
+            },
+            "properties": {
+                "name": "BEDOK",
+                "min_rent": 490,
+                "max_rent": 5600,
+                "avg_rent": 2532.38,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 1734.56,
+                "avg_rent_3room": 2265.97,
+                "avg_rent_4room": 2265.97,
+                "avg_rent_5room": 3000.35,
+                "avg_rent_executive": 3202.76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84642582418888,
+                    1.3530079817978902
+                ]
+            },
+            "properties": {
+                "name": "BISHAN",
+                "min_rent": 600,
+                "max_rent": 5800,
+                "avg_rent": 2949.82,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 0,
+                "avg_rent_3room": 2464.13,
+                "avg_rent_4room": 2464.13,
+                "avg_rent_5room": 3219.28,
+                "avg_rent_executive": 3527.64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.74885206950466,
+                    1.3530198725959233
+                ]
+            },
+            "properties": {
+                "name": "BUKIT BATOK",
+                "min_rent": 480,
+                "max_rent": 6100,
+                "avg_rent": 2548.89,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 2324.38,
+                "avg_rent_3room": 2209.65,
+                "avg_rent_4room": 2209.65,
+                "avg_rent_5room": 2989.16,
+                "avg_rent_executive": 3071.05
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82207713714243,
+                    1.2819265293556035
+                ]
+            },
+            "properties": {
+                "name": "BUKIT MERAH",
+                "min_rent": 500,
+                "max_rent": 6300,
+                "avg_rent": 2959.96,
+                "avg_rent_1room": 1485.63,
+                "avg_rent_2room": 1998.89,
+                "avg_rent_3room": 2545.05,
+                "avg_rent_4room": 2545.05,
+                "avg_rent_5room": 3546.01,
+                "avg_rent_executive": 2700.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.76769540763158,
+                    1.3817332379096263
+                ]
+            },
+            "properties": {
+                "name": "BUKIT PANJANG",
+                "min_rent": 680,
+                "max_rent": 4600,
+                "avg_rent": 2573.76,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 1765.71,
+                "avg_rent_3room": 2124.6,
+                "avg_rent_4room": 2124.6,
+                "avg_rent_5room": 2744.75,
+                "avg_rent_executive": 2912.2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.78258358596707,
+                    1.3335588129098892
+                ]
+            },
+            "properties": {
+                "name": "BUKIT TIMAH",
+                "min_rent": 700,
+                "max_rent": 5500,
+                "avg_rent": 2990.83,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 1225.0,
+                "avg_rent_3room": 2589.39,
+                "avg_rent_4room": 2589.39,
+                "avg_rent_5room": 3367.19,
+                "avg_rent_executive": 3616.18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84846889458942,
+                    1.2933811497305576
+                ]
+            },
+            "properties": {
+                "name": "CENTRAL",
+                "min_rent": 350,
+                "max_rent": 7600,
+                "avg_rent": 3117.33,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 1978.14,
+                "avg_rent_3room": 2694.75,
+                "avg_rent_4room": 2694.75,
+                "avg_rent_5room": 4400.01,
+                "avg_rent_executive": 3100.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.74553600074358,
+                    1.3864199683377394
+                ]
+            },
+            "properties": {
+                "name": "CHOA CHU KANG",
+                "min_rent": 500,
+                "max_rent": 6600,
+                "avg_rent": 2613.08,
+                "avg_rent_1room": 1700.0,
+                "avg_rent_2room": 1723.68,
+                "avg_rent_3room": 2228.17,
+                "avg_rent_4room": 2228.17,
+                "avg_rent_5room": 2690.68,
+                "avg_rent_executive": 2894.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.76616080581029,
+                    1.3138163397460683
+                ]
+            },
+            "properties": {
+                "name": "CLEMENTI",
+                "min_rent": 450,
+                "max_rent": 6000,
+                "avg_rent": 2766.58,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 2142.11,
+                "avg_rent_3room": 2469.17,
+                "avg_rent_4room": 2469.17,
+                "avg_rent_5room": 3399.21,
+                "avg_rent_executive": 3552.83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89239036049871,
+                    1.3216225248582947
+                ]
+            },
+            "properties": {
+                "name": "GEYLANG",
+                "min_rent": 500,
+                "max_rent": 7400,
+                "avg_rent": 2572.3,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 1578.15,
+                "avg_rent_3room": 2294.22,
+                "avg_rent_4room": 2294.22,
+                "avg_rent_5room": 3211.88,
+                "avg_rent_executive": 3242.26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88843125485677,
+                    1.3708852762124364
+                ]
+            },
+            "properties": {
+                "name": "HOUGANG",
+                "min_rent": 500,
+                "max_rent": 5600,
+                "avg_rent": 2586.62,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 2123.53,
+                "avg_rent_3room": 2207.9,
+                "avg_rent_4room": 2207.9,
+                "avg_rent_5room": 2813.29,
+                "avg_rent_executive": 3057.12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.73948271369451,
+                    1.3390933752805705
+                ]
+            },
+            "properties": {
+                "name": "JURONG EAST",
+                "min_rent": 600,
+                "max_rent": 6150,
+                "avg_rent": 2687.19,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 1735.71,
+                "avg_rent_3room": 2257.47,
+                "avg_rent_4room": 2257.47,
+                "avg_rent_5room": 3069.7,
+                "avg_rent_executive": 3264.11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.70734610666084,
+                    1.343524514426928
+                ]
+            },
+            "properties": {
+                "name": "JURONG WEST",
+                "min_rent": 400,
+                "max_rent": 6050,
+                "avg_rent": 2731.62,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 1914.63,
+                "avg_rent_3room": 2218.26,
+                "avg_rent_4room": 2218.26,
+                "avg_rent_5room": 2920.56,
+                "avg_rent_executive": 3030.05
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8607957085125,
+                    1.319088898751952
+                ]
+            },
+            "properties": {
+                "name": "KALLANG/WHAMPOA",
+                "min_rent": 500,
+                "max_rent": 6500,
+                "avg_rent": 2760.71,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 1884.5,
+                "avg_rent_3room": 2428.43,
+                "avg_rent_4room": 2428.43,
+                "avg_rent_5room": 3317.48,
+                "avg_rent_executive": 3367.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.91311204432793,
+                    1.304124783786063
+                ]
+            },
+            "properties": {
+                "name": "MARINE PARADE",
+                "min_rent": 800,
+                "max_rent": 5500,
+                "avg_rent": 2656.27,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 1400.0,
+                "avg_rent_3room": 2427.02,
+                "avg_rent_4room": 2427.02,
+                "avg_rent_5room": 3394.13,
+                "avg_rent_executive": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.95116157221177,
+                    1.3721104623701454
+                ]
+            },
+            "properties": {
+                "name": "PASIR RIS",
+                "min_rent": 750,
+                "max_rent": 5150,
+                "avg_rent": 2805.02,
+                "avg_rent_1room": 1500.0,
+                "avg_rent_2room": 1902.08,
+                "avg_rent_3room": 2287.34,
+                "avg_rent_4room": 2287.34,
+                "avg_rent_5room": 2829.31,
+                "avg_rent_executive": 3041.87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.90640333204882,
+                    1.4019980528805551
+                ]
+            },
+            "properties": {
+                "name": "PUNGGOL",
+                "min_rent": 300,
+                "max_rent": 4500,
+                "avg_rent": 2750.35,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 2093.68,
+                "avg_rent_3room": 2572.31,
+                "avg_rent_4room": 2572.31,
+                "avg_rent_5room": 2790.85,
+                "avg_rent_executive": 2927.15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.79800138599616,
+                    1.3012977322670434
+                ]
+            },
+            "properties": {
+                "name": "QUEENSTOWN",
+                "min_rent": 500,
+                "max_rent": 6800,
+                "avg_rent": 2885.74,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 1907.16,
+                "avg_rent_3room": 2536.83,
+                "avg_rent_4room": 2536.83,
+                "avg_rent_5room": 3679.36,
+                "avg_rent_executive": 3544.12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.82176678873219,
+                    1.4497576690463452
+                ]
+            },
+            "properties": {
+                "name": "SEMBAWANG",
+                "min_rent": 400,
+                "max_rent": 4500,
+                "avg_rent": 2630.74,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 2068.46,
+                "avg_rent_3room": 2657.79,
+                "avg_rent_4room": 2657.79,
+                "avg_rent_5room": 2664.45,
+                "avg_rent_executive": 2852.68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89313653029198,
+                    1.3904063633991626
+                ]
+            },
+            "properties": {
+                "name": "SENGKANG",
+                "min_rent": 500,
+                "max_rent": 4800,
+                "avg_rent": 2727.43,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 1999.29,
+                "avg_rent_3room": 2508.64,
+                "avg_rent_4room": 2508.64,
+                "avg_rent_5room": 2784.35,
+                "avg_rent_executive": 2877.45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.87236635976635,
+                    1.3615443714401785
+                ]
+            },
+            "properties": {
+                "name": "SERANGOON",
+                "min_rent": 750,
+                "max_rent": 5000,
+                "avg_rent": 2723.51,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 1716.67,
+                "avg_rent_3room": 2341.6,
+                "avg_rent_4room": 2341.6,
+                "avg_rent_5room": 2988.55,
+                "avg_rent_executive": 3181.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94689873486166,
+                    1.3536952292541757
+                ]
+            },
+            "properties": {
+                "name": "TAMPINES",
+                "min_rent": 600,
+                "max_rent": 6550,
+                "avg_rent": 2728.39,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 2030.95,
+                "avg_rent_3room": 2334.93,
+                "avg_rent_4room": 2334.93,
+                "avg_rent_5room": 2990.76,
+                "avg_rent_executive": 3194.96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.73560054031401,
+                    1.355739077878665
+                ]
+            },
+            "properties": {
+                "name": "TENGAH",
+                "min_rent": 2200,
+                "max_rent": 3400,
+                "avg_rent": 2800.0,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 2200.0,
+                "avg_rent_3room": 0,
+                "avg_rent_4room": 0,
+                "avg_rent_5room": 3400.0,
+                "avg_rent_executive": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85979142975093,
+                    1.3362334706504244
+                ]
+            },
+            "properties": {
+                "name": "TOA PAYOH",
+                "min_rent": 500,
+                "max_rent": 6000,
+                "avg_rent": 2639.91,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 1765.5,
+                "avg_rent_3room": 2353.13,
+                "avg_rent_4room": 2353.13,
+                "avg_rent_5room": 3301.95,
+                "avg_rent_executive": 3208.65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.79074745905392,
+                    1.438002695898516
+                ]
+            },
+            "properties": {
+                "name": "WOODLANDS",
+                "min_rent": 400,
+                "max_rent": 5250,
+                "avg_rent": 2549.48,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 1873.06,
+                "avg_rent_3room": 2097.88,
+                "avg_rent_4room": 2097.88,
+                "avg_rent_5room": 2701.33,
+                "avg_rent_executive": 2848.97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83838186239777,
+                    1.4260066850333128
+                ]
+            },
+            "properties": {
+                "name": "YISHUN",
+                "min_rent": 500,
+                "max_rent": 5500,
+                "avg_rent": 2480.54,
+                "avg_rent_1room": 0,
+                "avg_rent_2room": 2028.49,
+                "avg_rent_3room": 2206.24,
+                "avg_rent_4room": 2206.24,
+                "avg_rent_5room": 2756.63,
+                "avg_rent_executive": 2921.57
+            }
+        }
+    ]
+}
