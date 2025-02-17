@@ -6,8 +6,11 @@
 > - **HDB Flat Types:** HDB apartments or flats, are split into various types indicating the number of rooms included.[^2]
 > 
 > **Data Source:** [HDB Renting Out of Flats 2024](https://data.gov.sg/datasets/d_c9f57187485a850908655db0e8cfe651/view)
-
-
+---
+**For those who are unable to preview the Jupyter notebook, please use the following links:**
+- https://nbviewer.org/github/inezzie/sg_hdb_rentals/blob/main/sgmap.ipynb
+- https://nbviewer.org/github/inezzie/sg_hdb_rentals/blob/main/predict.ipynb
+---
 This project looks at the HDB rental prices in Singapore from Jan-2021 to Nov-2024, the entire duration of data available from the government's official open data portal[^3]. This period happens to cover Singapore's Covid-19 response period up till the end of 2024.
 
 During the Covid-19 pandemic, Singapore enacted the circuit breaker lockdown period[^4] which enforced stay-at-home measures which included deporting any foreigners found to be in non-compliance with safe distancing measures (e.g. throwing parties in large groups). This, along with majority of the foreign workforce returning to their home countries during the pandemic[^5], led to two possible outcomes for HDB rentals.
